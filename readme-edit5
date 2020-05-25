@@ -1,6 +1,0 @@
-def question_3():
-    """Write a code to caluculate sum of 2 & 2"""
-    sum1=2+2
-    return sum1
-
-question_3()
